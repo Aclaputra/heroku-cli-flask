@@ -1,4 +1,4 @@
-Deployed app to Heroku using docker container -> https://secure-ocean-02769.herokuapp.com/
+Deployed to Heroku using docker container -> https://secure-ocean-02769.herokuapp.com/
 
 # Requirements
 - Installed and logged in to Heroku CLI
