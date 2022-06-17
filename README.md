@@ -1,4 +1,4 @@
-# heroku-cli-flask
+Deploy and Run Docker Container to Heroku Container Registry using Heroku CLI with Flask app.
 
 Deployed to Heroku using docker container -> https://secure-ocean-02769.herokuapp.com/
 
